@@ -1,0 +1,56 @@
+/* compiled by scssphp v0.0.10 on Mon, 11 Dec 2017 12:22:39 -0200 (0.0725s) */
+
+/*
+ * Button mixin- creates 3d-ish button effect with correct
+ * highlights/shadows, based on a base color.
+ */
+#wpadminbar {
+  box-shadow: 0 1px 0px rgba(0, 0, 0, 0.05); }
+
+@media screen and (min-width: 783px) {
+  .folded:not(.admin-menu-h) #adminmenu .wp-menu-name {
+    font-size: 11px;
+    font-weight: normal;
+    height: 50px;
+    width: 70px;
+    padding: 0 4px;
+    display: table-cell;
+    vertical-align: middle; }
+    .folded:not(.admin-menu-h) #adminmenu div.wp-menu-image {
+      -webkit-transition: margin-top 0.2s;
+      transition: margin-top 0.2s;
+      height: 50px;
+      padding: 0; }
+      .folded:not(.admin-menu-h) #adminmenu div.wp-menu-image:before {
+        line-height: 50px;
+        padding: 0;
+        font-size: 18px; }
+    .folded:not(.admin-menu-h) #adminmenu li.menu-top:hover div.wp-menu-image, .folded:not(.admin-menu-h) #adminmenu li.menu-top:focus div.wp-menu-image, .folded:not(.admin-menu-h) #adminmenu li.menu-top.wp-has-current-submenu div.wp-menu-image, .folded:not(.admin-menu-h) #adminmenu li.menu-top.current div.wp-menu-image {
+      margin-top: -50px; }
+      .folded:not(.admin-menu-h) #adminmenu li.menu-top a.menu-top {
+        height: 50px;
+        overflow: hidden; } }
+
+@media (min-width: 783px) and (max-width: 960px) {
+  .auto-fold:not(.admin-menu-h) #adminmenu .wp-menu-name {
+    font-size: 11px;
+    font-weight: normal;
+    height: 50px;
+    width: 70px;
+    padding: 0 4px;
+    display: table-cell;
+    vertical-align: middle; }
+    .auto-fold:not(.admin-menu-h) #adminmenu div.wp-menu-image {
+      -webkit-transition: margin-top 0.2s;
+      transition: margin-top 0.2s;
+      height: 50px;
+      padding: 0; }
+      .auto-fold:not(.admin-menu-h) #adminmenu div.wp-menu-image:before {
+        line-height: 50px;
+        padding: 0;
+        font-size: 18px; }
+    .auto-fold:not(.admin-menu-h) #adminmenu li.menu-top:hover div.wp-menu-image, .auto-fold:not(.admin-menu-h) #adminmenu li.menu-top:focus div.wp-menu-image, .auto-fold:not(.admin-menu-h) #adminmenu li.menu-top.wp-has-current-submenu div.wp-menu-image, .auto-fold:not(.admin-menu-h) #adminmenu li.menu-top.current div.wp-menu-image {
+      margin-top: -50px; }
+      .auto-fold:not(.admin-menu-h) #adminmenu li.menu-top a.menu-top {
+        height: 50px;
+        overflow: hidden; } }
