@@ -8,15 +8,10 @@
 </head>
 <body>
 
-<div class="navbar navbar-inverse navbar-fixed-top">
+<div class="navbar navbar-inverse navbar-fixed-top meumenu ">
 
 	<div class="container"> <!-- container -->
 		
-	<div class="navbar-header">
-		<a class="navbar-brand" href="index.php"> EXTRA UFPI LOGO </a>
-	</div>
-
-
 	</div> <!-- container -->
 
 	

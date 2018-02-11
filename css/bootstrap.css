@@ -2450,10 +2450,17 @@ fieldset[disabled] a.btn {
   pointer-events: none;
 }
 
+
 .btn-primary {
   color: #fff;
   background-color: #007bff;
   border-color: #007bff;
+}
+
+.btn-primary_black {
+  color: #fff;
+  background-color: #000;
+  border-color: #002;
 }
 
 .btn-primary:hover {

@@ -4,7 +4,12 @@
 <table class="table">
     
     <tr>
-        <td class="form-control"><h1>Campus UFPI</h1></td>
+        
+        
+        <div class="container">
+            <img class="form-control" src="images/logo_fundo_claro@2x.png" />
+	   </div>
+        
     </tr>
     
 	<tr>
