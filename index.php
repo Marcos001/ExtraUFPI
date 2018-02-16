@@ -21,7 +21,7 @@
 	<tr>
         
     <tr>
-       <td> <a  href="campus/picos/index.php"><button type="button" class="btn btn-primary form-control">Picos</button> </a></td>
+       <td> <a  href="picos/index.php"><button type="button" class="btn btn-primary form-control">Picos</button> </a></td>
 	<tr>
         
     <tr>
