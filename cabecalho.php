@@ -8,14 +8,5 @@
 </head>
 <body>
 
-<div class="navbar navbar-inverse navbar-fixed-top meumenu ">
-
-	<div class="container"> <!-- container -->
-		
-	</div> <!-- container -->
-
-	
-</div>
-
 <div class="container">
 	<div class="principal">

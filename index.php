@@ -5,7 +5,6 @@
     
     <tr>
         
-        
         <div class="container">
             <img class="form-control" src="images/logo_fundo_claro@2x.png" />
 	   </div>
@@ -13,11 +12,15 @@
     </tr>
     
 	<tr>
-        <td><a  href="#"><button type="button" class="btn btn-primary form-control">Bom Jesus</button> </a></td>
+        <td><a  href="bom_jesus/index.php"><button type="button" class="btn btn-primary form-control">Bom Jesus</button> </a></td>
 	<tr>
         
     <tr>
-       <td> <a  href="#"><button type="button" class="btn btn-primary form-control">Parnaíba</button> </a></td>
+        <td><a  href="floriando/index.php"><button type="button" class="btn btn-primary form-control">Floriano</button> </a></td>
+	<tr>
+        
+    <tr>
+       <td> <a  href="parnaiba/index.php"><button type="button" class="btn btn-primary form-control">Parnaíba</button> </a></td>
 	<tr>
         
     <tr>
@@ -25,7 +28,7 @@
 	<tr>
         
     <tr>
-        <td><a  href="#"><button type="button" class="btn btn-primary form-control">Teresina</button> </a></td>	
+        <td><a  href="teresina/index.php"><button type="button" class="btn btn-primary form-control">Teresina</button> </a></td>	
 	</tr>
 
 		
